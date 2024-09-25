@@ -9,3 +9,7 @@
 
 - BFS and DFS
 - No of Components
+- Undirected graph cycle detection
+  - BFS
+  - DFS
+- Directed graph cycle detection (Topological Sort)
